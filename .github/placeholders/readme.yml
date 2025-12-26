@@ -1,0 +1,12 @@
+REPO_TAGLINE: Databases • data modeling • SQL
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: library
+SITE_URL: https://academic-codex.github.io/SCE0615-Banco-de-Dados
+
+BG_1: "#052E16"
+BG_2: "#14532D"
+TEXT_MAIN: "#ECFDF5"
+TEXT_MUTED: "#BBF7D0"
+ACCENT: "#4ADE80"
+CARD_RADIUS: "18"
